@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb0a665c-98bc-4dba-a863-ad19c236a639" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\intelij\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mPYNyiZDjkWgtd0gZ1ltWlaKEr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Library">
+    <configuration name="BooksForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooksForm" />
+      <module name="Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrarianForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibrarianForm" />
+      <module name="Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library" />
+      <module name="Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ViewBooks" />
+      <module name="Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewLibrarian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ViewLibrarian" />
+      <module name="Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.BooksForm" />
+        <item itemvalue="Application.LibrarianForm" />
+        <item itemvalue="Application.ViewLibrarian" />
+        <item itemvalue="Application.ViewBooks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb0a665c-98bc-4dba-a863-ad19c236a639" name="Default Changelist" comment="" />
+      <created>1609396656436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609396656436</updated>
+      <workItem from="1609396659498" duration="3548000" />
+      <workItem from="1609410072216" duration="4634000" />
+      <workItem from="1609484144601" duration="1589000" />
+      <workItem from="1609507783761" duration="678000" />
+      <workItem from="1609559457403" duration="2751000" />
+      <workItem from="1609571352401" duration="108000" />
+      <workItem from="1609580153344" duration="839000" />
+      <workItem from="1609583295597" duration="2430000" />
+      <workItem from="1609586173599" duration="31000" />
+      <workItem from="1609650804625" duration="835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1609583885721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609583885721" />
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1609586218472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609586218472" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1609586218472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609586218472" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1609586218472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609586218472" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1609586218472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609586218472" />
+    <state width="1537" height="261" key="GridCell.Tab.1.bottom" timestamp="1609403466321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609403466321" />
+    <state width="1537" height="261" key="GridCell.Tab.1.center" timestamp="1609403466321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609403466321" />
+    <state width="1537" height="261" key="GridCell.Tab.1.left" timestamp="1609403466321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609403466321" />
+    <state width="1537" height="261" key="GridCell.Tab.1.right" timestamp="1609403466321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609403466321" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609583891519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609583891519" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1609443029322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1609443029322" />
+  </component>
+</project>
